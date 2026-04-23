@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1776959568 source:c:\users\lenovo\documents\work\thuc_hanh_oop\btth3\bai_4\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cmath>
+
