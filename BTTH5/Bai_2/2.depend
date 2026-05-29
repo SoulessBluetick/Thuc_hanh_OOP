@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1779297196 source:c:\users\lenovo\documents\work\codeblock stuff\2\main.cpp
+	<iostream>
+	<string>
+
+1780061801 source:c:\users\lenovo\documents\work\thuc_hanh_oop\btth5\bai_2\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+
